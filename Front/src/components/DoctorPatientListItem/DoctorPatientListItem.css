@@ -1,0 +1,59 @@
+
+.add_link{
+    color: #fa8900;
+}
+
+.add_link:hover{
+    color: #d37604;
+}
+
+.pat_age{
+    color: #a5a5a5;
+    font-size:xx-small;
+    margin-top: -2%;
+}
+
+.popUp_li{
+    position:block;
+
+}
+
+.icon_option{
+    font-size: medium;
+    margin-left: 35px;
+}
+
+.icon_option_2{
+    font-size: medium;
+    margin-left: 8px;
+}
+.icon_option_3{
+    font-size: medium;
+    margin-left: 22px;
+}
+.icon_option_4{
+    font-size: medium;
+    margin-left: 48px;
+}
+
+.popUp_li:hover{
+    background-color: #f0f0f0;
+}
+
+
+.popUp{
+    position:absolute;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 32%;
+    z-index: 5;
+}
+
+.add_options{
+    background-color: #4bae4eda;
+    width: 40%;
+    position:relative;
+    border-radius: 8px;
+    position: relative;
+
+}

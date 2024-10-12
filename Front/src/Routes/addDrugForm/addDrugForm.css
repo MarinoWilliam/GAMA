@@ -1,0 +1,19 @@
+.MedicineContainer{
+    margin-top: 11vh;
+    margin-bottom: 4vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.MediDev{
+    height: auto;
+    width: 65%;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 8px 32px 0 rgba(31, 50, 135, 0.37);
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 2% 1%;
+    margin-top: 1%;
+}

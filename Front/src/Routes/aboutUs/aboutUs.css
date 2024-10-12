@@ -1,0 +1,88 @@
+.aboutContainer{
+    margin-top: 15vh;
+    margin-bottom: 15vh;
+    display: flex;
+    justify-content: center;
+}
+
+.aboutDev{
+    height: auto;
+    width: 90%;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 8px 32px 0 rgba(31, 50, 135, 0.37);
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 2% 1%;
+    margin-top: 1%;
+}
+
+ .mainPar{
+    margin-top: 7vh;
+    font-size:small;
+    color: rgb(131, 131, 131);
+
+ }
+ .title{
+     font-size:500%;
+     margin-left: 15vh;
+     margin-top: 7vh;
+ }
+ .contactBtn{
+    background: #ffb90d;
+    margin-left: 24vh;
+    margin-top: 3vh; 
+   font-size:medium;
+
+}
+
+ .contactBtn:hover{
+    background: #f8d887;
+ }
+
+ .panelBtn{
+   background: #0eb093;
+   margin-left: 36vh;
+   margin-top: 1vh; 
+
+}
+
+.panelBtn:hover{
+   background: #068a72;
+}
+
+ .aboutPhoto{
+    height: 55vh;
+    padding: 6% 2%;
+    margin-left: 5vh;
+    margin-top: 3vh;
+ }
+ .panel{
+    margin-top: 17vh;
+    width: 80%;
+    margin-left: 10%;
+ }
+
+ .panelPar{
+    font-size:x-small;
+    color: rgb(99, 99, 99);
+    margin-top: 8%;
+ }
+ .braceletePhoto{
+    height: 30vh;
+    padding: 2% 1%;
+ }
+ .mobilePhoto{
+   height: 28vh;
+   padding: 2% 1%;
+   margin-left: 8vh;
+}
+
+ .panelHeader{
+   margin-left: 8%;
+   font-size:small;
+   color: #ffb90d;
+
+ }
+
+
+ 

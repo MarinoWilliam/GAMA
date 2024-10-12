@@ -1,0 +1,19 @@
+.homeSearch{
+    width: 40%;
+    padding: 1% 1%;
+    margin-top:20% ;
+    margin-left : 5vh ;
+    margin-bottom: 1vh;
+    background: rgba( 255, 255, 255, 0.3 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.searchTitle{
+    margin: 2% 0%;
+    margin-bottom: 2%;
+    font-weight: bolder;
+    color: white;
+}

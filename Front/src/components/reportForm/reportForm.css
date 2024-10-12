@@ -1,0 +1,98 @@
+.reportForm_container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+
+.report_form_title{
+    color: #ef8600;
+    margin: auto;
+    width: 58%;
+    padding: 10px;
+}
+
+.FileUploadIcon{
+    font-size: xxx-large;
+    width: 17%;
+    margin-top: 4%;
+    margin-left: 43%;    
+}
+
+
+
+.FileUploadLabel{
+    width: 30%;
+    margin-top: 1%;
+    margin-left: 40%;
+}
+
+.FileUploadLabel2{
+    width: 30%;
+    margin-top: 1%;
+    margin-left: 38%;
+}
+
+.filInput{
+    display: none;
+  }
+
+
+.my_uploader{
+    border: 3px solid;
+    border-color: rgb(205, 207, 207);
+    border-radius: 8px ;
+    padding: 2%;
+    margin-top: 5%;
+    width: 80%;
+    margin-left: 10%;
+    
+}
+
+.Drop_Report{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.margin_left{
+    margin-left: 16.5%;
+}
+
+
+.small_margin_top{
+    margin-top: 15px;
+}
+.small_margin_bottom{
+    margin-bottom: 15px;
+}
+
+.small_margin_left{
+    margin-left: 5%;
+}
+
+.name_label{
+    font-size: x-large;
+    color: #7b8f8b;
+}
+
+
+.name_grid{
+    margin-top: 4%;
+    margin-left: -2%;
+}
+
+.name_value{
+    font-size: x-large;
+    color: #0EB093;
+}
+
+.name_value:hover{
+    color: #009b7e;
+}
+
+
+.choice_label{
+    color: #009b7e;
+
+}
+

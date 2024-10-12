@@ -1,0 +1,87 @@
+.doctorHomeContainer{
+    margin: 17vh 10vh 1vh;
+    text-align: center;
+}
+
+.mapbox{
+    width: 40px;
+    position: absolute;
+}
+
+.panels-parent{
+    height: 390px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin: 1% 1%;
+    padding: 0.6% 0.6%;
+    background: rgba(255, 255, 255, 0.7);
+    box-shadow: 0 8px 32px 0 rgba(31, 50, 135, 0.37);    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+}
+
+.panelImg{
+    height: 100%;
+    width: 100%;
+    border-radius: 2%;
+}
+
+/* .carousalSlide{
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+  } */
+
+  .userImg{
+    margin-top: 5px;
+  }
+  .SliderTextPanel{
+    /* margin-left: 25%; */
+    margin-top: 25vh;
+    margin-left: 1.8vh;
+    width: 50%;
+    text-align: left;
+    padding-left: 8px;
+    /* letter-spacing: 3px; */
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #8d8d8d27;
+    border-radius: 2px;
+  }
+  .sliderPtextPanel{
+    margin-left: 1.8vh;
+    width: 50%;
+    padding:0.2vh 0.2vh;
+    color: #09816b;
+    font-size: 14px;
+    text-align: left;
+    border-radius: 2px;
+    background: rgba(255, 255, 255, 0.11);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 14px );
+    -webkit-backdrop-filter: blur( 14px );
+    border-radius: 2px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+  
+  }
+  .sliderP2textPanel{
+    margin-left: 1vh;
+    width: 50%;
+    padding:0.2vh 0.2vh;
+    width:40% ;
+    color:#036d5a;
+    font-size: 14px;
+    text-align: left;
+    background: rgba( 255, 255, 255, 0.3 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+    border-radius: 2px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+  }
+  .sendPara{
+    color: white;
+  }
+
+  

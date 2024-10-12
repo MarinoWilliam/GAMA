@@ -1,0 +1,15 @@
+/* .appScrollSection{
+    height: 100vh;
+    overflow: hidden;
+    padding: 10%;
+  } */
+
+  .doctorSubscribDiv{
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    height: 100vh;
+    padding: 4%;
+
+  }

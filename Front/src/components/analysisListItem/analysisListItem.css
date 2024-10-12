@@ -1,0 +1,27 @@
+.sReportImg{
+        height: 80px;
+        border-radius: 50%;
+}
+
+.date{
+    color: rgb(8,175,144);
+    font-size:xx-small;
+}
+
+.listHr{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.moreDetails{
+    color: rgba(175, 8, 8,0.5);
+    font-size:12px;
+}
+
+.smarginTop{
+    margin-top: 5px;
+}
+
+.ana_name{
+    font-size: 16px;
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Dental",
+        "img_src" : "../../images/dentistryCategory.png",
+        "seeMoreLink" : "/Dental/id"
+    },
+    {
+        "name": "Cardio",
+        "img_src" : "../../images/dentistryCategory.png",
+        "seeMoreLink" : "/Dental/id"
+    },
+    {
+        "name": "Bones",
+        "img_src" : "../../images/dentistryCategory.png",
+        "seeMoreLink" : "/Dental/id"
+    },
+    {
+        "name": "Abdomen",
+        "img_src" : "../../images/dentistryCategory.png",
+        "seeMoreLink" : "/Dental/id"
+    }
+
+]

@@ -1,0 +1,42 @@
+.error_image{
+    height: 500px;
+}
+
+.error_Grid{
+    padding-top: 0px;
+    align-content: center;
+}
+
+.error_dev{
+    height: auto;
+    width: 80%;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 8px 32px 0 rgba(31, 50, 135, 0.37);
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 0% 1%;
+    margin-top: 1%;
+}
+
+.error_header{
+    margin-top: 50px;
+    color: rgb(5,129,193);
+}
+.error_para{
+    text-align: center;
+    margin-top: 10px;
+    font-size: medium;
+    color: rgba(0,116,134,0.5);
+}
+
+.error_button{
+    background-color: #fda63c;
+    color: white;
+    margin-top: 15px;
+    margin-left: 230px;
+}
+
+.error_button:hover{
+    background-color: #febf4e;
+
+}

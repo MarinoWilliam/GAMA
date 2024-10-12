@@ -1,0 +1,25 @@
+.review_para{
+    color: rgb(75, 75, 75);
+    margin: 20px 50px;
+}
+
+.review_header{
+    max-height: 10px;
+}
+
+.review_date{
+    font-size: xx-small;
+    color: rgb(150, 150, 150);
+    font-weight: 100;
+}
+
+
+.review_div{
+    background: rgb(255, 255, 255);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 1% 1%;
+    margin-top: 1%;
+}

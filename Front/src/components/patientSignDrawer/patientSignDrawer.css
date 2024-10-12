@@ -1,0 +1,10 @@
+.SignUpTab{
+    background-color: aquamarine;
+}
+.patientDrawer{
+    z-index: 9999;
+}
+
+.signHeader{
+    color: #0eb093;
+}

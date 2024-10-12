@@ -1,0 +1,16 @@
+.doc_review_title{
+    margin-top: 0px;
+}
+
+.modal_title_data_for{
+    font-size: x-large;
+    color: rgba(27,73,142,0.85);
+    font-weight:400; 
+}
+.modal_title_data_name{
+    font-size: x-large;
+    color: rgb(27,73,142);
+    font-weight: 800; 
+}
+
+

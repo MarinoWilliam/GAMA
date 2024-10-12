@@ -1,0 +1,16 @@
+.analysis_form_title{
+    color: #ef8600;
+    margin: auto;
+    font-size: 36px;
+    padding: 5px;
+}
+
+.my_uploader_s{
+    border: 3px solid;
+    border-color: rgb(205, 207, 207);
+    border-radius: 8px ;
+    margin-top: 5%;
+    width: 60%;
+    margin-left: 15%;
+    margin-bottom: 5px;
+}

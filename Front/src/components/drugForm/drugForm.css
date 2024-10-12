@@ -1,0 +1,19 @@
+.drug_name{
+    width: 200px;
+}
+
+
+.dose_label{
+    margin-bottom: 5px;
+}
+
+.medium_margin_left{
+    margin-left: 10%;
+}
+
+.drug_form_title{
+    color: #ef8600;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}

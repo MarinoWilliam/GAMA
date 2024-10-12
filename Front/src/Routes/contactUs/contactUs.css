@@ -1,0 +1,83 @@
+.contactContainer{
+    margin-top: 15vh;
+    margin-bottom: 15vh;
+    display: flex;
+    justify-content: center;
+}
+
+.contactDev{
+    height: auto;
+    width: 90%;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 8px 32px 0 rgba(31, 50, 135, 0.37);
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 2% 1%;
+    margin-top: 1%;
+}
+
+ .title{
+     font-size:300%;
+     margin-left: 36%;
+     margin-top: 6vh;
+ }
+
+ .email{
+    margin-top: 1%;
+   height: 34vh;
+}
+ 
+.cvPhoto{
+   margin-top: 5%;
+   height: 30vh;
+}
+.doctor{
+   margin-top: 3%;
+   height: 36vh;
+}
+.man{
+   height: 40vh;
+}
+.danger{
+   margin-top: -1%;
+   height: 38vh;
+}
+
+.topline{
+   margin-top: 3%;
+   margin-left: 11%;
+}
+
+.subTitleemail{
+   color: rgb(85, 85, 85);
+   font-size:small ;
+   margin-left: 15%;
+   margin-top: -3%;
+
+}
+
+.subTitleCv{
+   color: rgb(85, 85, 85);
+   font-size:small ;
+   margin-left: 15%;
+}
+
+.subTitleDoc{
+   color: rgb(85, 85, 85);
+   font-size:small ;
+   margin-left: 10%;
+   margin-top: -9%;
+}
+
+.subTitleJop{
+   color: rgb(85, 85, 85);
+   font-size:small ;
+   margin-left: 12%;
+   margin-top: -11%;
+}
+.subTitleDanger{
+   color: rgb(85, 85, 85);
+   font-size:small ;
+   margin-left: 28%;
+   margin-top: -5%;
+}

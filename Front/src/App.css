@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@200;500&family=Prompt&family=Ubuntu:wght@300;500&display=swap');
+.AppContainer{
+  background: rgb(110, 181, 203); 
+  background: linear-gradient(0deg, #d6ebf1 5%, rgb(24, 167, 211) 100%);
+  overflow: hidden;
+  font-family: 'Ubuntu','Prompt','Oswald','Anton', sans-serif;
+  min-height: 745px;
+}
+.userGroupSection{
+  text-align: center;
+}
+.body{
+  overflow: hidden;
+}
+.container{
+  padding-top: 15vh;
+}
+h1,h2,h3,p{
+  font-family: 'Ubuntu','Prompt','Oswald','Anton', sans-serif;
+}

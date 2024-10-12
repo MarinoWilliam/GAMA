@@ -1,0 +1,39 @@
+.packageCard{
+    background: rgb(255, 255, 255);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 18px );
+    -webkit-backdrop-filter: blur( 18px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    height: 60vh;
+    padding: 0% 5%;
+  }
+  .subscribeHr{
+    width: 50%;
+    border: 0.5vh solid #FF9800;
+    border-radius: 50%;
+    margin-top: -1%;
+  }
+  .pricingContent{
+    text-align: left;
+    color: #0EB093;
+  }
+  .pricingContent ul{
+    list-style-type: none;
+    font-size: large;
+  }
+  .pricingContent ul li::before {
+    content: "\2713";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color:#FF9800; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 2em; /* Also needed for space (tweak if needed) */
+    margin-left: -2%; /* Also needed for space (tweak if needed) */
+  }
+  .subscribeButton{
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    width: 90%;
+  }
+  
