@@ -1,2 +1,3 @@
-# GAMA
-HIS
+# GAMA integrated soloutions
+
+## Demo Video
