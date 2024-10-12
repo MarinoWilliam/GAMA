@@ -1,5 +1,7 @@
 # GAMA Integrated Solutions
 
+---
+
 Welcome to **GAMA Integrated Solutions**, a comprehensive platform designed to streamline healthcare management with a focus on **efficiency**, **security**, and **user experience**.
 
 <br>
@@ -16,7 +18,8 @@ Welcome to **GAMA Integrated Solutions**, a comprehensive platform designed to s
 <br>
 
 ![Smooth User Experience](https://github.com/user-attachments/assets/1c070c39-4596-466d-a1d4-c4ec6ea2bc9f)
-
+<br>
+--
 <br>
 
 - **🩺 Access Comprehensive Medical Records**: Healthcare providers can access a wide range of medical investigations and reports from various sources, enabling better **patient history insights**.
@@ -25,7 +28,8 @@ Welcome to **GAMA Integrated Solutions**, a comprehensive platform designed to s
 <br>
 
 ![Dynamic Dashboard](https://github.com/user-attachments/assets/d78a4bb6-07ae-4fd0-8778-ea0b231bf553)
-
+<br>
+--
 <br>
 
 - **⭐ Patient Reviews and Ratings**: Patients can leave **reviews** and **rate their doctors** for better care insights.
@@ -35,3 +39,4 @@ Welcome to **GAMA Integrated Solutions**, a comprehensive platform designed to s
 <br>
 
 ![Patient Reviews and Doctor Search](https://github.com/user-attachments/assets/f034394a-90f9-454b-b746-bb164243a7f2)
+--
